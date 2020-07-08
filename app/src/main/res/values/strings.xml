@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KtRoomFirst</string>
+    <string name="strtodohint">write some todo here</string>
+    <string name="btncap">Save Todo</string>
+    <string name="priospincap">Prioritás:</string>
+    <array name="priors">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+</resources>
